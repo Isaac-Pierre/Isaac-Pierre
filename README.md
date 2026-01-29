@@ -1,4 +1,4 @@
-<h1 align="center">👻 Isaac Pierre</h1>
+👻 Isaac Pierre</h1>
 <h3 align="center">Entry-Level Help Desk/Service-desk representative| CompTia+ Certified 💻 | IT Support 📞 | Google+ Certified</h3>
 
 - 📫 How to reach me **pierreisaac2026@gmail.com**

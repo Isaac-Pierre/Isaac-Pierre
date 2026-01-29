@@ -4,7 +4,7 @@
 
 Entry-level Help Desk technician with entry-level proficiency in the Help Desk/Service desk Industry. My ambition is to help users navigate technical issues by using patience, refined problem analysis, and workshop tools, including ticketing systems, RDP, RMM, and more.
 
-
+--
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

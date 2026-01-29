@@ -13,4 +13,3 @@ Entry-level Help Desk technician with entry-level proficiency in the Help Desk/S
 
 
 <h3 align="left">Languages and Tools:</h3>
-rc="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>

@@ -2,7 +2,6 @@
 
 **`Entry-Level Help Desk/Service-desk representative`**
 
----
 # About Me 
 Entry-level Help Desk technician with entry-level proficiency in the Help Desk/Service desk Industry. My ambition is to help users navigate technical issues by using patience, refined problem analysis, and workshop tools, including ticketing systems, RDP, RMM, and more.
 

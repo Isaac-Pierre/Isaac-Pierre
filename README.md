@@ -1,8 +1,6 @@
 # 👻 Isaac Pierre</h1>
 
-** Entry-Level Help Desk/Service-desk representative **
-
-- 📫 How to reach me **pierreisaac2026@gmail.com**
+*Entry-Level Help Desk/Service-desk representative* 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,6 +1,6 @@
 # 👻 Isaac Pierre</h1>
 
-*Entry-Level Help Desk/Service-desk representative* 
+**`Entry-Level Help Desk/Service-desk representative`**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

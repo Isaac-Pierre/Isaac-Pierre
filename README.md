@@ -21,6 +21,7 @@ Entry-level Help Desk technician with entry-level proficiency in the Help Desk/S
  
 ---
 
+
 # Projects
 
 FILL IN - FILL IN - FILL IN - FILL IN - FILL IN

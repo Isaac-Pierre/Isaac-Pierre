@@ -2,6 +2,8 @@
 
 **`Entry-Level Help Desk/Service-desk representative`**
 
+Entry-level Help Desk technician with entry-level proficiency in the Help Desk/Service desk Industry. My ambition is to help users navigate technical issues by using patience, refined problem analysis, and workshop tools, including ticketing systems, RDP, RMM, and more.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/isaacpierre/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/isaacpierre/" height="30" width="40" /></a>

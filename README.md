@@ -9,7 +9,26 @@ Entry-level Help Desk technician with entry-level proficiency in the Help Desk/S
 <p align="left">
 <a href="https://www.linkedin.com/in/isaacpierre/" target="_blank" rel="noopener noreferrer">
   Visit my LinkedIn profile
+</a><a href="https://www.linkedin.com/in/isaacpierre/" target="_blank" rel="noopener noreferrer" class="linkedin-btn">
+  Connect on LinkedIn
 </a>
+
+<style>
+.linkedin-btn {
+  display: inline-block;
+  padding: 10px 18px;
+  background-color: #0A66C2;
+  color: white;
+  text-decoration: none;
+  border-radius: 4px;
+  font-weight: bold;
+  font-family: Arial, sans-serif;
+}
+.linkedin-btn:hover {
+  background-color: #084a8a;
+}
+</style>
+
 
 
 <h3 align="left">Languages and Tools:</h3>

@@ -16,6 +16,11 @@ Entry-level Help Desk technician with entry-level proficiency in the Help Desk/S
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 
 [- Currently working on <a href="https://book-commerce-murex.vercel.app/">book commerce</a>]::
+
+ --- 
+ 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> My Recent Projects 
+
  
 
 

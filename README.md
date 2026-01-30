@@ -26,5 +26,13 @@ Entry-level Help Desk technician with entry-level proficiency in the Help Desk/S
 ![image](https://image2url.com/r2/default/files/1769731021080-670c6857-2c73-4773-a837-827c4da3b880.jpg)
 
 
+---
+# Skill Stack
+[![My Skills](https://skillicons.dev/icons?i=apple,aws,azure,bash,c,linux,py,figma&theme=light)](https://skillicons.dev)
+
+---
+
+# Stats and dev activity 
+
 
 

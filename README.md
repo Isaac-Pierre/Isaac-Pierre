@@ -34,5 +34,17 @@ Entry-level Help Desk technician with entry-level proficiency in the Help Desk/S
 
 # Stats and dev activity 
 
+![Pierre' GitHub stats](https://github-readme-stats.vercel.app/api?username=Isaac-Pierre&show_icons=true&theme=radical)
+
+
+
+
+
+
+
+
+
+
+
 
 

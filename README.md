@@ -1,4 +1,4 @@
-# 👻 Isaac Pierre</h1>
+# 💻 Isaac Pierre</h1>
 
 **`Entry-Level Help Desk/Service-desk representative`**
 

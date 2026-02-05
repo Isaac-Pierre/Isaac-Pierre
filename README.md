@@ -27,6 +27,7 @@ Entry-level Help Desk technician with entry-level proficiency in the Help Desk/S
     <img src="IMAGE_URL" width="32"/>
   </a>
 </p>
+
 ---
 # Skill Stack
 [![My Skills](https://skillicons.dev/icons?i=apple,aws,azure,bash,c,linux,py,figma&theme=light)](https://skillicons.dev)

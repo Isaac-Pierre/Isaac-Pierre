@@ -24,13 +24,14 @@ Entry-level Help Desk technician with entry-level proficiency in the Help Desk/S
 
 <p align="center">
   <a href="https://image2url.com/r2/default/files/1769731021080-670c6857-2c73-4773-a837-827c4da3b880.jpg" title="Box">
-    <img src="https://image2url.com/r2/default/files/1769731021080-670c6857-2c73-4773-a837-827c4da3b880.jpg" width="40" height="40" />
+    <img src="https://image2url.com/r2/default/files/1769731021080-670c6857-2c73-4773-a837-827c4da3b880.jpg" width="44" height="44" />
   </a>
 
   <a href="https://image2url.com/r2/default/files/1769731021080-670c6857-2c73-4773-a837-827c4da3b880.jpg" title="Box">
-    <img src="https://image2url.com/r2/default/files/1769731021080-670c6857-2c73-4773-a837-827c4da3b880.jpg" width="40" height="40" />
+    <img src="https://image2url.com/r2/default/files/1769731021080-670c6857-2c73-4773-a837-827c4da3b880.jpg" width="44" height="44" />
   </a>
 </p>
+
 
 
 ---

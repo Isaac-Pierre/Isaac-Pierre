@@ -22,17 +22,15 @@ Entry-level Help Desk technician with entry-level proficiency in the Help Desk/S
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> Recent Activity
 
 
-<p align="left">
+<p align="center">
   <a href="https://image2url.com/r2/default/files/1769731021080-670c6857-2c73-4773-a837-827c4da3b880.jpg" title="Box">
-    <img src="https://image2url.com/r2/default/files/1769731021080-670c6857-2c73-4773-a837-827c4da3b880.jpg" width="60" height="60" />
+    <img src="https://image2url.com/r2/default/files/1769731021080-670c6857-2c73-4773-a837-827c4da3b880.jpg" width="68" height="68" />
   </a>
 
   <a href="https://image2url.com/r2/default/files/1769731021080-670c6857-2c73-4773-a837-827c4da3b880.jpg" title="Box">
-    <img src="https://image2url.com/r2/default/files/1769731021080-670c6857-2c73-4773-a837-827c4da3b880.jpg" width="60" height="60" />
+    <img src="https://image2url.com/r2/default/files/1769731021080-670c6857-2c73-4773-a837-827c4da3b880.jpg" width="68" height="68" />
   </a>
 </p>
-
-
 
 ---
 # Skill Stack
